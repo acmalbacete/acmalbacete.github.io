@@ -1,0 +1,5 @@
+Sources of several images:
+
+maths_wikimedia.jpg: https://commons.wikimedia.org/wiki/File:Pure-mathematics-formulæ-blackboard.jpg
+
+bayes_wikimedia.jpg: https://commons.wikimedia.org/wiki/File:Bayes'_Theorem_MMB_01.jpg
