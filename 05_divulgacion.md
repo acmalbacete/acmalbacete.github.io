@@ -11,5 +11,8 @@ divulgación de las Matemáticas. Así, estamos desarrollando unos vídeos sobre
 
 
 
+** Sistemas de numeración**
+
+En el primer vídeo describimos qué es un sistema de numeración, cuáles conocemos y qué aplicaciones tienen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oKBmipcRq4" frameborder="0" allowfullscreen></iframe>
