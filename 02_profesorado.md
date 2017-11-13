@@ -22,12 +22,12 @@ Se presenta a continuación la relación de profesorado participante en el progr
 -	José Luis Martínez de la Torre, Profesor de Enseñanza Secundaria
 -	Silvia Martínez Sanahuja, Profesor ayudante doctor en la Universidad de Castilla-La Mancha.
 -	Juan Martínez-Tébar, profesor de Enseñanza Secundaria
+-	Carmen Monzó, profesora de Enseñanza Secundaria
 -	Carlos Motos Martínez-Esparcia, profesor de Enseñanza Secundaria
 -	Javier Orengo Valverde, catedrático de Enseñanza Secundaria y profesor asociado de la Universidad de Castilla-La Mancha
 -	Vicente Pascual Hidalgo, profesor de Enseñanza Secundaria
--	Jaime Penabad Vázquez, Profesor Titular en la Universidad de Castilla-La Mancha
 -	Vidal Quiralte Fuentes, profesor de Enseñanza Secundaria
 -	Emilio Sánchez Alcantud, Profesor de Enseñanza Secundaria
 -	Ramón Serrano Urrea, Profesor Titular en la Universidad de Castilla-La Mancha
 -	María Sotos Serrano, Profesora Titular de Escuela Universitaria en la Universidad de Castilla-La Mancha
-
+-	José Ángel Villodre Fernández, profesor de Enseñanza Secundaria 
