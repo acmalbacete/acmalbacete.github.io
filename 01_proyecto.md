@@ -21,7 +21,7 @@ Durante este curso, el programa se desarrollará con estudiantes de 1º, 2º, 3�
 Los contenidos detallados por curso se encuentran recogidos en la tabla que se adjunta:
 
 | 1º ESO | 2º ESO  | 3º ESO | 4º ESO |
-| ------ | :------:| ------:| ------:|
+| :------: | :------:| :------:| :------:|
 |        | Divisibilidad, Números primos | Azar y probabilidad | Geometría fractal |
 |        | y Congruencias | | |
 |        | Historia de las matemáticas | La geometría del triángulo | Software matemático |
