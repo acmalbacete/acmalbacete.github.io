@@ -22,6 +22,7 @@ Se presenta a continuación la relación de profesorado participante en el progr
 -	Juan Martínez-Tébar, profesor de Enseñanza Secundaria.
 -	Carlos Motos Martínez-Esparcia, profesor de Enseñanza Secundaria.
 -	Javier Orengo Valverde, catedrático de Enseñanza Secundaria y profesor asociado de la Universidad de Castilla-La Mancha.
+-	Francisco Palmí Perales, investigrador predoctoral en la Universidad de Castilla-La Mancha.
 -	Vicente Pascual Hidalgo, profesor de Enseñanza Secundaria.
 -	Vidal Quiralte Fuentes, profesor de Enseñanza Secundaria.
 -	Emilio Sánchez Alcantud, Profesor de Enseñanza Secundaria.
