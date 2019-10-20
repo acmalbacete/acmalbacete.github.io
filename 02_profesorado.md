@@ -1,6 +1,6 @@
 ---
 layout: webpage
-title: profesorado
+title: Profesorado
 permalink: /profesorado/
 ---
 
